@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net4odata", "net4odata\net4odata.csproj", "{11860089-C7C8-4724-9ACC-4B6B096253A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net4odata.Tests", "net4odata.Tests\net4odata.Tests.csproj", "{B8D76010-B2B7-4C6D-907C-B61A0B8DA99C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11860089-C7C8-4724-9ACC-4B6B096253A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11860089-C7C8-4724-9ACC-4B6B096253A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11860089-C7C8-4724-9ACC-4B6B096253A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11860089-C7C8-4724-9ACC-4B6B096253A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D76010-B2B7-4C6D-907C-B61A0B8DA99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D76010-B2B7-4C6D-907C-B61A0B8DA99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D76010-B2B7-4C6D-907C-B61A0B8DA99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D76010-B2B7-4C6D-907C-B61A0B8DA99C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC48CDF5-FAE6-4CCB-AFBD-DD6C9F50AC3C}
+	EndGlobalSection
+EndGlobal
